@@ -35,7 +35,7 @@ I build and maintain production web applications, contribute to open source, and
 | Area | Technologies |
 |---|---|
 | Languages | TypeScript, JavaScript, Python, Java, C++, C |
-| Frontend | Angular, React, Next.js, RxJS, Redux, Tailwind CSS, Storybook |
+| Frontend | Angular, React, Next.js, Vue.js, RxJS, Redux, Tailwind CSS, Storybook |
 | Backend & Data | Node.js, Express, NestJS, FastAPI, Flask, Prisma, PostgreSQL, MongoDB, Supabase |
 | Testing & DevOps | Vitest, Jest, pytest, JUnit, Docker, Nginx, AWS, Git, Linux |
 
